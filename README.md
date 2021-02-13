@@ -1,5 +1,7 @@
 ### Hi there, I'm Anas Riyaz - aka [healer][website] 👋
 
+![Alt Text](./GIF.gif)
+
 ## I'm a Student, Developer, Competitive Programmer,and Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -39,6 +41,6 @@
 
 <img align="left" alt="healer9's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=healer9&show_icons=true&hide_border=true" />
 
-[website]: https://healer9.github.io/mywebsite/
+[website]: https://healer9.github.io/anas-riyaz-portfolio/#/
 [instagram]: https://www.instagram.com/opacarophile.set/
 [linkedin]: https://www.linkedin.com/in/anas-riyaz-462ab2185/
