@@ -1,6 +1,6 @@
 ### Hi there, I'm Anas Riyaz - aka [healer][website] 👋
 
-![Alt Text](./GIF.gif)
+<img src="./GIF.gif" width="300" height="200"/>
 
 ## I'm a Student, Developer, Competitive Programmer,and Gamer!!
 
