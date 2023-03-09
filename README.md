@@ -2,11 +2,9 @@
 
 <img src="./GIF.gif" width="300" height="200"/>
 
-## I'm a Student, Developer, Competitive Programmer,and Gamer!!
+## I'm a Developer, Competitive Programmer,and Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: To Create More & more Web Apps
 - ⚡ Fun fact: I love to play Computer games
 
 ### Connect with me:
